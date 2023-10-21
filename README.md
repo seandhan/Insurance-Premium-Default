@@ -17,14 +17,14 @@ The objective of this project is to:
 
 This project will be split into three(3) parts:
 
-### Part 1
+### [Part 1](https://github.com/seandhan/Insurance-Premium-Default/blob/main/Part%201.ipynb)
 * Explore and visualize the dataset.
 * Understand the data attributes
 * Initial Exploratory Data Analysis 
    * Univariate analysis
    * Bivariate analysis
         
-### Part 2
+### [Part 2](https://github.com/seandhan/Insurance-Premium-Default/blob/main/Part2.ipynb)
 * Data pre-processing
    - Missing Value treatment
    - Removal of unwanted variables
@@ -43,4 +43,4 @@ This project will be split into three(3) parts:
 * Business insights and Recommendations
 
 ## Analysis
-Click [HERE](XXX) to view the analysis.
+Click [HERE](https://github.com/seandhan/Insurance-Premium-Default/blob/main/InsurancePremiumDefault.ipynb) to view the entire analysis.
