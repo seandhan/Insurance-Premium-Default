@@ -17,8 +17,8 @@
 
 - [🤓 Description](#description)
 - [💻 Dataset Overview](#dataset-overview)
-- [🛠️ Feature Engineering](#feature-engineering)
 - [📊 Exploratory Data Analysis](#exploratory-data-analysis)
+- [🛠️ Feature Engineering](#feature-engineering)
 - [🏗️ Model Building](#model-building)
 - [✨ Recommendations](#recommendations)
 - [📗 Notebooks](#notebooks)
@@ -78,6 +78,17 @@ There was a significant amount of data pre-processing required prior data visual
 
 ----
 
+## 📊 Exploratory Data Analysis <a name = "exploratory-data-analysis"></a>
+
+The Univariate and Bivariate analysis can be seen here.
+
+### Click to view 👇:
+
+[![Exploratory Data Analysis](https://github.com/seandhan/image_database/blob/main/Solution-Exploratory%20Data%20Analysis-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Exploratory%20Data%20Analysis/ReadME.MD)
+
+
+----
+
 ## 🛠️ Feature Engineering <a name = "feature-engineering"></a>
 
 The step by step data cleaning and wrangling can be observed in this section
@@ -86,16 +97,6 @@ The step by step data cleaning and wrangling can be observed in this section
 
 [![Feature Engineering](https://github.com/seandhan/image_database/blob/main/Solution-Feature%20Engineering-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Feature%20Engineering/ReadME.MD)
 
-
-----
-
-## 📊 Exploratory Data Analysis <a name = "exploratory-data-analysis"></a>
-
-The Univariate and Bivariate analysis can be seen here.
-
-### Click to view 👇:
-
-[![Exploratory Data Analysis](https://github.com/seandhan/image_database/blob/main/Solution-Exploratory%20Data%20Analysis-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Exploratory%20Data%20Analysis/ReadME.MD)
 
 
 ----
