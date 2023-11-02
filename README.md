@@ -84,7 +84,7 @@ The Univariate and Bivariate analysis can be seen here.
 
 ### Click to view 👇:
 
-[![Exploratory Data Analysis](https://github.com/seandhan/image_database/blob/main/Solution-Exploratory%20Data%20Analysis-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Exploratory%20Data%20Analysis/ReadME.MD)
+[![Exploratory Data Analysis](https://github.com/seandhan/image_database/blob/main/Solution-Exploratory%20Data%20Analysis-.svg)](https://github.com/seandhan/Insurance-Premium-Default/blob/main/Exploratory%20Data%20Analysis/ReadMe.md)
 
 
 ----
@@ -95,7 +95,7 @@ The step by step data cleaning and wrangling can be observed in this section
 
 ### Click to view 👇:
 
-[![Feature Engineering](https://github.com/seandhan/image_database/blob/main/Solution-Feature%20Engineering-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Feature%20Engineering/ReadME.MD)
+[![Feature Engineering](https://github.com/seandhan/image_database/blob/main/Solution-Feature%20Engineering-.svg)](https://github.com/seandhan/Insurance-Premium-Default/blob/main/Feature%20Engineering/Readme.md)
 
 
 
@@ -107,7 +107,7 @@ The data model preparation and linear regression steps can be seen here.
 
 ### Click to view 👇:
 
-[![Model Building](https://github.com/seandhan/image_database/blob/main/Solution-Model%20Building-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Model%20Building/README.MD)
+[![Model Building](https://github.com/seandhan/image_database/blob/main/Solution-Model%20Building-.svg)]()
 
 
 ----
@@ -132,25 +132,26 @@ The Notebook for the "Data Exploration" can be accessed below:
 
 ### Click to view 👇:
 
-[![DataExp Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Dataset%20Exploration-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Notebooks/Data%20exploration.ipynb)
-
-The Notebook for the "Feature Engineering" can be accessed below:
-
-### Click to view 👇:
-
-[![Feature Engineering Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Feature%20engineering-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Notebooks/Feature_engineering.ipynb)
+[![DataExp Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Dataset%20Exploration-.svg)](https://github.com/seandhan/Insurance-Premium-Default/blob/main/Notebooks/Data%20Exploration.ipynb)
 
 The Notebook for the "Exploratory Data Analysis" can be accessed below:
 
 ### Click to view 👇:
 
-[![EDA Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Exploratory%20Data%20analysis-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Notebooks/Exploratory%20Data%20Analysis.ipynb)
+[![EDA Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Exploratory%20Data%20analysis-.svg)](https://github.com/seandhan/Insurance-Premium-Default/blob/main/Notebooks/EDA.ipynb)
+
+The Notebook for the "Feature Engineering" can be accessed below:
+
+### Click to view 👇:
+
+[![Feature Engineering Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Feature%20engineering-.svg)](https://github.com/seandhan/Insurance-Premium-Default/blob/main/Notebooks/Feature%20Engineering.ipynb)
+
 
 The Notebook for the "Model Building" can be accessed below:
 
 ### Click to view 👇:
 
-[![Model Building Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Model%20Building-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Notebooks/Model_Building.ipynb)
+[![Model Building Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Model%20Building-.svg)]()
 
 ----
 
