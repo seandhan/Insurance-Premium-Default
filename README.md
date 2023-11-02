@@ -72,7 +72,7 @@ The used cars database contains 17 variables. The data dictionary below explains
 
 ### Click to view 👇:
 
-[![Data Exploration](https://github.com/seandhan/image_database/blob/main/Solution-Dataset%20Exploration-.svg)](https://github.com/seandhan/Used-Car-Price-Prediction/blob/main/Dataset%20Exploration/ReadMe.md)
+[![Data Exploration](https://github.com/seandhan/image_database/blob/main/Solution-Dataset%20Exploration-.svg)](https://github.com/seandhan/Insurance-Premium-Default/blob/main/Data%20Exploration/Readme.md)
 
 There was a significant amount of data pre-processing required prior data visualization. These steps can be seen in the following section.
 
