@@ -162,5 +162,3 @@ The Notebook for the "Model Building" can be accessed below:
 - Email: [sean_dhanasar@msn.com](mailto:sean_dhanasar@msn.com)
 - LinkedIn: [Sean Dhanasar](https://www.linkedin.com/in/sdhanasar)
 
-## Analysis
-Click [HERE](https://github.com/seandhan/Insurance-Premium-Default/blob/main/InsurancePremiumDefault.ipynb) to view the entire analysis.
