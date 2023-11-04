@@ -107,7 +107,7 @@ The data model preparation and linear regression steps can be seen here.
 
 ### Click to view 👇:
 
-[![Model Building](https://github.com/seandhan/image_database/blob/main/Solution-Model%20Building-.svg)]()
+[![Model Building](https://github.com/seandhan/image_database/blob/main/Solution-Model%20Building-.svg)](https://github.com/seandhan/Insurance-Premium-Default/blob/main/Model%20Building/ReadMe.md)
 
 
 ----
@@ -151,7 +151,7 @@ The Notebook for the "Model Building" can be accessed below:
 
 ### Click to view 👇:
 
-[![Model Building Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Model%20Building-.svg)]()
+[![Model Building Notebook](https://github.com/seandhan/image_database/blob/main/Notebook-Model%20Building-.svg)](https://github.com/seandhan/Insurance-Premium-Default/blob/main/Notebooks/Model%20Building.ipynb)
 
 ----
 
