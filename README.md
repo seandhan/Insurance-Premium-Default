@@ -44,7 +44,7 @@ The dataset source file can found through the following link:
 
 [![Data_link](https://github.com/seandhan/image_database/blob/main/Data-LINK-.svg)](https://github.com/seandhan/Insurance-Premium-Default/blob/main/InsurancePremiumDefault.xlsx)
 
-The used cars database contains 17 variables. The data dictionary below explains each variable:
+The dataset contains 17 variables. The data dictionary below explains each variable:
 
 <details>
 <summary>Data Dictionary</summary>
